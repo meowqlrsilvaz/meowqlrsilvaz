@@ -1,16 +1,11 @@
-## Hi there 👋
+sophia@jarvis-core:~$ cat current_objectives.json
+{
+  "status": "EXECUTING",
+  "priority_queue": [
+    "Aprofundar conhecimentos em LLMs e Agentic Workflows",
+    "Desenvolver microsserviços orientados a eventos com Rust/Go",
+    "Contribuir ativamente para projetos open-source de grande porte",
+    "Refinar arquitetura de sistemas distribuídos"
+  ]
+}
 
-<!--
-**meowqlrsilvaz/meowqlrsilvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
